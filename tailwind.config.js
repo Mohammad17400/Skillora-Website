@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{js,jsx,ts,tsx}'], darkMode:'class', theme:{extend:{colors:{brand:{500:'#8b5cf6',600:'#7c3aed',700:'#6d28d9'},ink:'#202044'},fontFamily:{display:['Inter','ui-sans-serif','system-ui']},boxShadow:{soft:'0 12px 35px rgba(54,45,110,.10)'}}},plugins:[] };
